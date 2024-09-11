@@ -125,17 +125,5 @@ int main()
     return 0;
 } 
 ```
-
-#### Output  
-
-(A) <br>  
-![](https://github.com/Shloka-Patel/Experiment---12/blob/main/Output_12A.png) 
-
-(B) <br> 
-![](https://github.com/Shloka-Patel/Experiment---12/blob/main/Output_12B.png) 
-
-(C) <br> 
-![](https://github.com/Shloka-Patel/Experiment---12/blob/main/Output_12C.png) 
-
 #### Conclusion 
 I learnt about constuctors and its types, destructors and performed various programs based on that. <br>            
